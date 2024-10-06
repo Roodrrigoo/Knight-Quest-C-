@@ -1,0 +1,6 @@
+Nombre: Rodrigo                                
+Ubicación: Pandora                              
+Puntos de Salud Totales: 100
+Puntos de Salud Actuales: 100
+Máximo Ataque: 100
+Monedas: 100
