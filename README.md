@@ -10,6 +10,23 @@ Along his journey, the player will encounter powerful sorcerers, who will test h
 
 In addition to his confrontations with enemies, the player will also have the opportunity to interact with friendly characters, such as warriors who fight for justice and inhabitants of the kingdom who offer their help. These interactions will be key, since some characters can provide support and objects that will help you advance in your mission.
 
+
+## Game Execution Screenshots
+
+### Execution 1
+![Execution 1](https://github.com/Roodrrigoo/Knight-Quest-C-/blob/main/imgs/ejecucion%201%20kingdom%20.png?raw=true)
+
+### Execution 2
+![Execution 2](https://github.com/Roodrrigoo/Knight-Quest-C-/blob/main/imgs/ejecucion%202%20kingdom%20.png?raw=true)
+
+### Execution 3
+![Execution 3](https://github.com/Roodrrigoo/Knight-Quest-C-/blob/main/imgs/ejecucion%203%20kingdom.png?raw=true)
+
+### Execution 4
+![Execution 4](https://github.com/Roodrrigoo/Knight-Quest-C-/blob/main/imgs/ejecucion%204%20kingdom.png?raw=true)
+
+
+
 ## Technical Implementation
 
 The game was developed with a clear focus on Object Oriented Programming (OOP), taking advantage of several fundamental concepts of this paradigm, such as:
@@ -30,16 +47,3 @@ Abstract classes define the general structure of characters, ensuring that they 
 
 The main objective of this game was to apply in a practical way the key concepts of object-oriented programming in C++, taking advantage of advanced language features such as inheritance, polymorphism, operator overloading, and exception handling. In addition, the goal was to create an immersive and dynamic experience for the player, combining strategic combat with the narrative of an epic story.
 
-## Game Execution Screenshots
-
-### Execution 1
-![Execution 1](https://github.com/Roodrrigoo/Knight-Quest-C-/blob/main/imgs/ejecucion%201%20kingdom%20.png?raw=true)
-
-### Execution 2
-![Execution 2](https://github.com/Roodrrigoo/Knight-Quest-C-/blob/main/imgs/ejecucion%202%20kingdom%20.png?raw=true)
-
-### Execution 3
-![Execution 3](https://github.com/Roodrrigoo/Knight-Quest-C-/blob/main/imgs/ejecucion%203%20kingdom.png?raw=true)
-
-### Execution 4
-![Execution 4](https://github.com/Roodrrigoo/Knight-Quest-C-/blob/main/imgs/ejecucion%204%20kingdom.png?raw=true)
